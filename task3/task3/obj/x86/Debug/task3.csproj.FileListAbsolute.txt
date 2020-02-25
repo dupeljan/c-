@@ -1,0 +1,10 @@
+/home/dupeljan/Projects/c#/task3/task3/bin/Debug/task3.exe
+/home/dupeljan/Projects/c#/task3/task3/bin/Debug/task3.pdb
+/home/dupeljan/Projects/c#/task3/task3/obj/x86/Debug/task3.csprojAssemblyReference.cache
+/home/dupeljan/Projects/c#/task3/task3/obj/x86/Debug/task3.exe
+/home/dupeljan/Projects/c#/task3/task3/obj/x86/Debug/task3.pdb
+/home/dupeljan/Projects/2020_8_semestr/c#/task3/task3/bin/Debug/task3.exe
+/home/dupeljan/Projects/2020_8_semestr/c#/task3/task3/obj/x86/Debug/task3.csprojAssemblyReference.cache
+/home/dupeljan/Projects/2020_8_semestr/c#/task3/task3/bin/Debug/task3.pdb
+/home/dupeljan/Projects/2020_8_semestr/c#/task3/task3/obj/x86/Debug/task3.exe
+/home/dupeljan/Projects/2020_8_semestr/c#/task3/task3/obj/x86/Debug/task3.pdb

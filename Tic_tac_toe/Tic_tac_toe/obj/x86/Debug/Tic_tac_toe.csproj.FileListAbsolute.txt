@@ -1,0 +1,5 @@
+/home/dupeljan/Projects/2020_8_semestr/c#/Tic_tac_toe/Tic_tac_toe/bin/Debug/Tic_tac_toe.exe
+/home/dupeljan/Projects/2020_8_semestr/c#/Tic_tac_toe/Tic_tac_toe/bin/Debug/Tic_tac_toe.pdb
+/home/dupeljan/Projects/2020_8_semestr/c#/Tic_tac_toe/Tic_tac_toe/obj/x86/Debug/Tic_tac_toe.csprojAssemblyReference.cache
+/home/dupeljan/Projects/2020_8_semestr/c#/Tic_tac_toe/Tic_tac_toe/obj/x86/Debug/Tic_tac_toe.exe
+/home/dupeljan/Projects/2020_8_semestr/c#/Tic_tac_toe/Tic_tac_toe/obj/x86/Debug/Tic_tac_toe.pdb

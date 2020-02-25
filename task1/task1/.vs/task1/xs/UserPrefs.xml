@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="runConf">
+  <MonoDevelop.Ide.Workbench ActiveDocument="task1/Class1.cs">
+    <Files>
+      <File FileName="task1/Class1.cs" Line="10" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="task1" expanded="True">
+            <Node name="task1" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Class1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="runConf" Name="runConf" />
+  </MultiItemStartupConfigurations>
+</Properties>

@@ -1,0 +1,8 @@
+/home/dupeljan/Projects/c#/task1/task1/task1/obj/Debug/netstandard2.0/task1.csprojAssemblyReference.cache
+/home/dupeljan/Projects/c#/task1/task1/task1/obj/Debug/netstandard2.0/task1.AssemblyInfoInputs.cache
+/home/dupeljan/Projects/c#/task1/task1/task1/obj/Debug/netstandard2.0/task1.AssemblyInfo.cs
+/home/dupeljan/Projects/c#/task1/task1/task1/bin/Debug/netstandard2.0/task1.exe.deps.json
+/home/dupeljan/Projects/c#/task1/task1/task1/bin/Debug/netstandard2.0/task1.exe.dll
+/home/dupeljan/Projects/c#/task1/task1/task1/bin/Debug/netstandard2.0/task1.exe.pdb
+/home/dupeljan/Projects/c#/task1/task1/task1/obj/Debug/netstandard2.0/task1.exe.dll
+/home/dupeljan/Projects/c#/task1/task1/task1/obj/Debug/netstandard2.0/task1.exe.pdb

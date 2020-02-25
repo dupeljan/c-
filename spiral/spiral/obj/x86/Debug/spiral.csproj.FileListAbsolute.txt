@@ -1,0 +1,5 @@
+/home/dupeljan/Projects/2020_8_semestr/c#/spiral/spiral/bin/Debug/spiral.exe
+/home/dupeljan/Projects/2020_8_semestr/c#/spiral/spiral/bin/Debug/spiral.pdb
+/home/dupeljan/Projects/2020_8_semestr/c#/spiral/spiral/obj/x86/Debug/spiral.csprojAssemblyReference.cache
+/home/dupeljan/Projects/2020_8_semestr/c#/spiral/spiral/obj/x86/Debug/spiral.exe
+/home/dupeljan/Projects/2020_8_semestr/c#/spiral/spiral/obj/x86/Debug/spiral.pdb

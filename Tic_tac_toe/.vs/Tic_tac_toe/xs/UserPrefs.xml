@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{0751BE60-9200-47D4-9F08-AD8F5DE35435}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tic_tac_toe/MainWindow.cs">
+    <Files>
+      <File FileName="Tic_tac_toe/Program.cs" Line="13" Column="1" />
+      <File FileName="Tic_tac_toe/gtk-gui/MainWindow.cs" Line="6" Column="27" />
+      <File FileName="Tic_tac_toe/MainWindow.cs" Line="67" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tic_tac_toe" expanded="True">
+            <Node name="Tic_tac_toe" expanded="True">
+              <Node name="UserInterface" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="MainWindow.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Tic__tac__toe PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{B79134CE-EC33-436A-BE94-85AD08DD5E29}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="battleship/MainWindow.cs">
+    <Files>
+      <File FileName="battleship/Program.cs" Line="1" Column="1" />
+      <File FileName="battleship/ColoredButton.cs" Line="32" Column="38" />
+      <File FileName="battleship/ShipArrButton.cs" Line="20" Column="1" />
+      <File FileName="battleship/MainWindow.cs" Line="70" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="battleship" expanded="True">
+            <Node name="battleship" expanded="True">
+              <Node name="MainWindow.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.battleship PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/dupeljan/Projects/2020_8_semestr/c#/battleship/battleship/MainWindow.cs" relfile="battleship/MainWindow.cs" line="64" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

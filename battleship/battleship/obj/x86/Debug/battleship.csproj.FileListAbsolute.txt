@@ -1,0 +1,5 @@
+/home/dupeljan/Projects/2020_8_semestr/c#/battleship/battleship/bin/Debug/battleship.exe
+/home/dupeljan/Projects/2020_8_semestr/c#/battleship/battleship/bin/Debug/battleship.pdb
+/home/dupeljan/Projects/2020_8_semestr/c#/battleship/battleship/obj/x86/Debug/battleship.exe
+/home/dupeljan/Projects/2020_8_semestr/c#/battleship/battleship/obj/x86/Debug/battleship.pdb
+/home/dupeljan/Projects/2020_8_semestr/c#/battleship/battleship/obj/x86/Debug/battleship.csprojAssemblyReference.cache
